@@ -75,12 +75,3 @@
 </div>
 
 <br/>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MikeSoperskiy&label=Просмотры+профиля&color=3b82f6&style=flat" alt="Profile views" />
-  
-  <br/><br/>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</div>
