@@ -9,7 +9,7 @@
   <a href="https://mikesoperskiy.github.io" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Портфолио-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://t.me/MikhailSoperskiy" target="_blank">
+  <a href="https://t.me/soperskiy" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
@@ -21,7 +21,7 @@
 
 Я — студент и разработчик, увлечённый созданием современных веб-приложений.
 
-- 🎯 Специализируюсь на **Python**, **JavaScript/TypeScript** и **React**
+- 🎯 Специализируюсь на **Rust**, **JavaScript/TypeScript** и **React**
 - 🌱 Изучаю современные фреймворки и технологии
 - 📚 Учусь в **Санкт-Петербурге**
 - 💬 Открыт к сотрудничеству и интересным проектам
